@@ -5,13 +5,13 @@ This PowerBI Dashboard for Presence Insights in the HR domain is a real-time dat
 
 ## 📸Screenshots
 DASHBOARD
-![App Screenshot](https://drive.google.com/uc?export=view&id=1iA0qb6P6hG8Pz2RIUfxls7SKi4MrBcEU)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1wdXaOPt9LTmLB5yNpuVcsAkgNU5PPzaM)
 
 INSIGHTS FOR APRIL 2022
-![App Screenshot](https://drive.google.com/uc?export=view&id=1LCiN9s6TCmsOTVB4e5DYBxYlFv9F-u1M)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1TxHbI2B5cnwJFs0M7Lk0NNsivVFqDmus)
 
 INSIGHTS FOR AYANNA ATKINS
-![App Screenshot](https://drive.google.com/uc?export=view&id=1HvJNI-HFYa5prBisqnxzMALJY9nWvZUC) 
+![App Screenshot](https://drive.google.com/uc?export=view&id=1dRD-yDRJWLRBSHs94tN_JH_h7mUnRDBc) 
 ## 👣Steps involved
 1) Simple data analysis using Excel.
 2) ETL and dashboard building using PowerBI.
