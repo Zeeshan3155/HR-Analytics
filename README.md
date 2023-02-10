@@ -6,7 +6,7 @@ This PowerBI Dashboard for Presence Insights in the HR domain is a real-time dat
 ## 📸Screenshots
 DASHBOARD
 ![App Screenshot](ss/hr1.png)
-![Kiku](images/Kiku.jpg)
+
 INSIGHTS FOR MAY 2022
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1TxHbI2B5cnwJFs0M7Lk0NNsivVFqDmus)
 
