@@ -1,7 +1,7 @@
 
 # HR Analytics
 
-This is an automated PowerBI dashboard to track emloyee data for HR team, including working hours, attendance, performance and leaves. This dashboard streamlined HR processes and increased efficiency.
+This PowerBI Dashboard for Presence Insights in the HR domain is a real-time data visualization tool that provides insights into the attendance and presence data of employees. This dashboard combines data to provide a comprehensive view of employee presence and attendance data, including absence trends, and overtime. With its interactive and customizable interface, HR managers can easily explore the data, identify patterns, and make informed decisions to improve operations and optimize productivity.
 
 ## 📸Screenshots
 DASHBOARD
