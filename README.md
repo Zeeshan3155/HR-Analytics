@@ -7,10 +7,10 @@ This PowerBI Dashboard for Presence Insights in the HR domain is a real-time dat
 DASHBOARD
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1wdXaOPt9LTmLB5yNpuVcsAkgNU5PPzaM)
 
-INSIGHTS FOR APRIL 2022
+INSIGHTS FOR MAY 2022
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1TxHbI2B5cnwJFs0M7Lk0NNsivVFqDmus)
 
-INSIGHTS FOR AYANNA ATKINS
+INSIGHTS FOR XIOMARA RUIZ
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1dRD-yDRJWLRBSHs94tN_JH_h7mUnRDBc) 
 ## 👣Steps involved
 1) Simple data analysis using Excel.
