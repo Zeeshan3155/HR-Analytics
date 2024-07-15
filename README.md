@@ -3,13 +3,10 @@ This Power BI Dashboard for Presence Insights in the HR domain is a real-time da
 
 ## Screenshots
 DASHBOARD
-![App Screenshot](https://drive.google.com/uc?export=view&id=1dECbdakzn-E_kT7qqKixQ7vVCTfOrsVL)
+![hr1](https://github.com/user-attachments/assets/dc2b1385-0696-47c3-ab73-6ece55ff6558)
 
-INSIGHTS FOR MAY 2022
-![App Screenshot](https://drive.google.com/uc?export=view&id=1Tu8xA8to12xOzYWLaXCSVcWxrWm4AWpa)
-
-INSIGHTS FOR XIOMARA RUIZ
-![App Screenshot](https://drive.google.com/uc?export=view&id=1ZNHM32BCn8mTy6WWgsqwVEQOcyOBllNt) 
+Working
+https://github.com/user-attachments/assets/694d3ec4-1a20-4770-86bc-eb34e40e5bd6
 
 ## Features
 * **Real-Time Data Visualization**: Provides up-to-date insights into employee attendance and presence.
@@ -36,7 +33,7 @@ INSIGHTS FOR XIOMARA RUIZ
 
 The Presence Insights dashboard is a powerful tool for HR managers to visualize and analyze employee attendance and presence data in real-time. By leveraging Power BI, this dashboard provides a comprehensive view of absence trends and overtime, facilitating informed decision-making and optimizing productivity.
 
----
+```
 # Hi, I'm Zeeshan! 👋
 ## 🚀 About Me
 I'm a Data Scientist and Data Analyst...
