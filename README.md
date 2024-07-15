@@ -2,10 +2,12 @@
 This Power BI Dashboard for Presence Insights in the HR domain is a real-time data visualization tool that provides insights into the attendance and presence data of employees. This dashboard combines data to offer a comprehensive view of employee presence and attendance, including absence trends and overtime. With its interactive and customizable interface, HR managers can easily explore the data, identify patterns, and make informed decisions to improve operations and optimize productivity.
 
 ## Screenshots
-DASHBOARD
+###DASHBOARD
+
 ![hr1](https://github.com/user-attachments/assets/dc2b1385-0696-47c3-ab73-6ece55ff6558)
 
-Working
+###Working
+
 https://github.com/user-attachments/assets/694d3ec4-1a20-4770-86bc-eb34e40e5bd6
 
 ## Features
